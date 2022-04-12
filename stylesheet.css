@@ -1,0 +1,59 @@
+body {
+    background-color: lavenderblush;
+}
+    
+#secone {
+    margin-left: 12cm;
+    margin-right: 7cm;
+    border-width: 12px;
+    border-style: groove;
+    border-color:#b191d1;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    }
+#Sectwo {
+    margin-left: 12cm;
+    margin-right: 7cm;
+    border-width: 12px;
+    border-style: groove;
+    border-color:#b191d1;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    }
+#Secthre {
+    margin-left: 12cm;
+    margin-right: 7cm;
+    border-width: 12px;
+    border-style: groove;
+    border-color:#b191d1;
+    padding-left: 3cm;
+    padding-right: 3cm;
+    }
+
+
+xx {
+    color: rgb(197, 152, 107);
+    font-style: bold;
+    border-bottom-style: groove;
+    border-bottom-width: 6px;
+    border-bottom-color: #734f96;
+    border-top-style: groove;
+    border-top-width: 6px;
+    border-top-color: #734f96;
+}
+
+img {
+border-radius: 7cm;
+    width: 75%;
+    height: 75%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: floralwhite;
+    display: ruby;
+    margin-bottom: 6%;
+    margin-top: 6%;
+}
+
+h6 {
+  color: rgb(254, 247, 233);  
+}
